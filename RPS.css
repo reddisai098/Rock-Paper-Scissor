@@ -8,6 +8,7 @@ body{
       border-radius: 50%;
       border-style:solid;
       border-color: aliceblue;
+      cursor: pointer;
       /* display: block; */
     }
     .move{
