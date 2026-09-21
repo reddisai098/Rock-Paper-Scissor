@@ -50,5 +50,6 @@ body{
       width: 100px;
       background-color:rgb(75, 217, 233);
       color: black;
+      cursor : pointer;
       border-radius: 15px;
     }
