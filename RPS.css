@@ -1,0 +1,53 @@
+body{
+      background-color: rgb(26, 28, 32);
+      color: aliceblue;
+    }
+    .moves{
+      height: 70px;
+      width: 70px;
+      border-radius: 50%;
+      border-style:solid;
+      border-color: aliceblue;
+      /* display: block; */
+    }
+    .move{
+      display: inline-flex;
+      justify-content: center;
+      border: none;
+      align-items:center ;
+      margin: 50px 15px 30px 15px;
+      width: 80px;
+      height: 80px;
+      border-radius: 50%;
+      background-color: transparent;
+      border-style:solid;
+      /* border-color: aliceblue; */
+      padding: 0;
+    }
+    .winners{
+      text-align: center;
+      font-weight: bold;
+      font-size: 20px;
+    }
+    h1{
+      text-align: center;
+    }
+    .moves-text{
+      text-align: center;
+      margin: 50px;
+    }
+    .score{
+      text-align: center;
+    }
+    .first-button{
+      margin-left: 460px;
+    }
+    .reset{
+      margin-left: 583px;
+      border: none;
+      height: 40px;
+      width: 100px;
+      background-color:rgb(75, 217, 233);
+      color: black;
+      border-radius: 15px;
+    }
